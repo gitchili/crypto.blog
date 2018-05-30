@@ -1,2 +1,0 @@
-# crypto.blog
-crypto.blog
