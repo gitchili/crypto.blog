@@ -28,6 +28,7 @@ export default {
 body {
  font-family: 'Roboto', Helvetica;
 }
+
 .main-content {
   margin-top: 4.5rem;
 }
