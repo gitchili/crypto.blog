@@ -53,8 +53,8 @@ module.exports = {
       {
         accessToken:
           process.env.NODE_ENV == "production"
-            ? ""
-            : "",
+            ? "I9oRk9MMIYX0t7hkYK9gSAtt"
+            : "lJAVtjpOq6nrS64cuPqiKgtt",
         cacheProvider: "memory"
       }
     ]
